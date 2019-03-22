@@ -14,9 +14,9 @@ app.get('/menus', function (req, res) {
 app.get('/contacts', function (req, res) {
     res.render('contacts')
 })
-app.post('/contact', function (req, res) {
-    res.render('respuesta')
-
+app.post('/contacts', function (req, res) {
+    console.log("funciona")
+    res.send('respuesta')
 })
 
 
