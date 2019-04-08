@@ -1,0 +1,37 @@
+Alumno: Fernando José Huarcaya Torres. 
+
+5C15B - Diseño de Software e Integración de Sistemas.
+-----------------------------------------------------------------------------------------------
+Laboratorio 05
+-----------------------------------------------------------------------------------------------
+
+1.- Ejecución de código "npm start"
+	-> 1.png
+2.- Imagen de estilo del archivo creado
+	-> 2.png
+3. Corriendo el proyecto
+	-> 3.png
+4. Probando usuario conectado y desconectado
+	-> 4.png
+5. Imprimiendo los datos ingresados
+	-> 5.png
+6. Verificando los datos ingresados
+	-> 6.png
+7. Viendo la base de datos
+	-> 7.png
+8. Viendo como si ingresando datos y se registran en la base de datos.
+	-> 8.png
+9. Captura del objeto io
+	-> 9.gif
+10. Captura de objeto socket
+	-> 10.gif
+-----------------------------------------------------------------------------------------------
+Observaciones:
+- Se trabajó con los gif para su mejor entendimiento del resultado obtenido.
+- 
+- Utilizamos mongo db pero solo consultas básicas en la consola.
+-----------------------------------------------------------------------------------------------
+Conclusiones:
+- Es necesario conocer y diferenciar las transmisiones mediante el io o socket.
+- Es muy importante escribir bien el código ya que por un espacio se puede presentar un error.
+- Reiniciar el servicio utilizado nos permitirá guardar los cambios que hayamos realizado.
