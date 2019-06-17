@@ -1,0 +1,33 @@
+Alumno: Fernando José Huarcaya Torres. 
+
+5C15B - Diseño de Software e Integración de Sistemas.
+-----------------------------------------------------------------------------------------------
+Laboratorio 02
+-----------------------------------------------------------------------------------------------
+
+1.- Ingresando comando npm
+	-> 1.png
+2.- Verificando la creación de package.json
+	-> 2.png
+3. Verificando cambios en la carpeta
+	-> 3.png
+4. Verificando el archivo y su modificación
+	-> 4.png
+5. Imprimiendo una lista de números
+	-> 5.png
+6. Probando ejemplo de empleados y el uso de chain
+	-> 6.png
+7. Probando ejemplo de idiomas
+	-> 7.png
+8. Probando herencias parasitarias
+	-> 8.png
+9. Error de subir de proyecto
+	-> 9.png
+
+-----------------------------------------------------------------------------------------------
+Conclusiones:
+- Podemos manejar listas en un archivo y luego ejecutarlo mediante consola, esto nos imprime lo que nosotros mandamos del archivo.
+- también podemos encadenar mediante la función "chain". En el ejemplo nos ponen un filtro para poder tomar un dota y solo ver los datos con ese filtro.
+- En la parte de subir nuestro proyecto a NPM pues salió un error sobre el nombre de nuestro proyecto, para poder subir no debe de llevar guiones ni espacios.
+Pregunta 7.1 Tenemos una variable que es nodes, esta tiene un elemento button y luego de eso hay un for que nos dice que cada vez que hagamos un clic en el elemento nos imprimirá el número de clic.
+Pregunta 7.3 Es una función que imprime en la consola números por prioridades, siendo el primero el 1 y luego el 4, para luego imprimir 3 porque no tiene un tiempo estimado y por último el 2 que tiene como tiempo 1000.

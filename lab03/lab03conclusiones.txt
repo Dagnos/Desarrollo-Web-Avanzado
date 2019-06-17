@@ -1,0 +1,33 @@
+Alumno: Fernando José Huarcaya Torres. 
+
+5C15B - Diseño de Software e Integración de Sistemas.
+-----------------------------------------------------------------------------------------------
+Laboratorio 02
+-----------------------------------------------------------------------------------------------
+
+1.- No se encuentra el complemento
+	-> 1.png
+2.- Probando GET
+	-> 2.png
+3. Probando POST
+	-> 3.png
+4. Probando PUT
+	-> 4.png
+5. Probando DELETE
+	-> 5.png
+6. Probando express.static
+	-> 6.png
+7. Probando express.static con prefijo de ruta
+	-> 7.png
+8. Probando herencias parasitarias
+	-> 8.png
+9. Error de subir de proyecto
+	-> 9.png
+
+-----------------------------------------------------------------------------------------------
+Conclusiones:
+- En el caso dee probar las URL hice uso de Postman que cumple la misma función solo que es un programa independiente.
+- El complemento recomendado por el profesor es de mucha ayuda cuando trabajas en un navegador web.
+- Para el manejo de archivos estáticos utilizamos la función express.static.
+- Para manejar errores necesitamos usar un middleware de errores, es recomendable poner esta función al último, ya que los middleware se usan de forma progresiva.
+
