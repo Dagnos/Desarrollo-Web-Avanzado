@@ -1,0 +1,24 @@
+Alumno: Fernando José Huarcaya Torres. 
+
+5C15B - Diseño de Software e Integración de Sistemas.
+-----------------------------------------------------------------------------------------------
+Laboratorio 02
+-----------------------------------------------------------------------------------------------
+
+1.- Visualizando los datos de Mongo
+	-> 1.png
+2.- Probando POST
+	-> 2.png
+3. Probando GET
+	-> 3.png
+
+
+-----------------------------------------------------------------------------------------------
+Conclusiones:
+- En mi caso mongodb ya estaba instalado y corriendo por defecto.
+- Trabajamos en una base de datos de prueba, pero aún así se pueden insertar datos.
+- El archivo de configuración de Mongo nos sirve para implementar las funciones que haremos en el CRUD.
+- CRUD significa "crear, actualizar, leer y borrar" esto es implementado mediante código en el archivo de configuración de Mongo.
+- Utilizamos Postman para hacer la pruebas de CRUD.
+- Trabajamos con vistas un poco más ordenadas, ya que ingresamos tablas para separar los datos.
+
