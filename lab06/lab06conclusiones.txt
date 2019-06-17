@@ -1,0 +1,12 @@
+Alumno: Fernando José Huarcaya Torres. 
+
+5C15B - Diseño de Software e Integración de Sistemas.
+-----------------------------------------------------------------------------------------------
+Laboratorio 06
+-----------------------------------------------------------------------------------------------
+
+Conclusiones:
+- Vamos a usar lo mismo de anteriores laboratorios, como express y body-parser.
+- En este laboratorio creamos un API teniendo una ruta y una acción HTTP.
+- Utilizamos las mismas funciones del CRUD para poder realizar nuestra API.
+- Axios nos sirve para poder comunicarnos con el backend.
