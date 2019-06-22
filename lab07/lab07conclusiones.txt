@@ -1,0 +1,21 @@
+Alumno: Fernando José Huarcaya Torres. 
+
+5C15B - Diseño de Software e Integración de Sistemas.
+-----------------------------------------------------------------------------------------------
+Laboratorio 06
+-----------------------------------------------------------------------------------------------
+1.- Se observa el Home
+	-> 1.png
+2.- Se observa el login
+	-> 2.png
+3.- Se observa el resultado final
+	-> 3.png
+4.- Se observa el resultado final del login
+	-> 4.png
+
+Conclusiones:
+- Vamos a usar lo mismo de anteriores laboratorios, como express y body-parser.
+- En este caso vamos a ver el uso de bootstrap para dar estilos a nuestra página web.
+- Es necesario importar bootstrap para hacer uso de este en el índex.js.
+- Creamos una estructura de las vistas para poder llamarlas correctamente desde una vista principal.
+- LocalStorage es el almacenamiento local del navegador, en este se puede almacenar valores de tipo clave-valor.

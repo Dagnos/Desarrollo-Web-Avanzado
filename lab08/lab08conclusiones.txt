@@ -1,0 +1,16 @@
+Alumno: Fernando José Huarcaya Torres. 
+
+5C15B - Diseño de Software e Integración de Sistemas.
+-----------------------------------------------------------------------------------------------
+Laboratorio 08
+-----------------------------------------------------------------------------------------------
+1.- Resultado final
+	-> 1.png
+
+
+Conclusiones:
+- Vamos a usar lo mismo de anteriores laboratorios, como express y body-parser.
+- Solo hicimos vistas para nuestro chat, aplicando diseño entendible.
+- La mayoría de los errores son por sintaxis.
+- Socket.io nos sirve para que dos aplicaciones se comuniquen en tiempo real.
+-Axios es una librería de javascript que comunica el api de dawa_api.
