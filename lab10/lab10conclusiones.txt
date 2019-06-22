@@ -1,0 +1,20 @@
+Alumno: Fernando José Huarcaya Torres. 
+
+5C15B - Diseño de Software e Integración de Sistemas.
+-----------------------------------------------------------------------------------------------
+Laboratorio 10
+-----------------------------------------------------------------------------------------------
+1.- Captura del uso de redux
+	-> 1.png
+1.- Como se llama al userName
+	-> 2.png
+1.- Se muestra la vista de página no encontrada
+	-> 3.png
+1.- Se muestra la vista de detalles del perfil
+	-> 4.png
+
+
+Conclusiones:
+- En mi caso no se muy bien el porque pero en el email no recibe nada, en la imagen 2 se puede ver que si se nombra bien al nombre
+- Se ve que en la imagen 4 no llega a cargar el userName y lo marca como no definido.
+- Se sube todo el resultado desde el laboratorio06 a esta carpeta (lab06).
