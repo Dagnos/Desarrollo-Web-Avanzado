@@ -1,0 +1,20 @@
+Alumno: Fernando José Huarcaya Torres. 
+
+5C15B - Diseño de Software e Integración de Sistemas.
+-----------------------------------------------------------------------------------------------
+Laboratorio 09
+-----------------------------------------------------------------------------------------------
+1.- Vista del Perfil de un usuario.
+	-> 1.png
+1.- Vista del Editar perfil (probando editar usuario "usuarioprueba2")
+	-> 2.png
+1.- Mensaje alerta de que el usuario fue modificado
+	-> 3.png
+1.- Comprobando en la base de datos que el usuario fue modificado
+	-> 4.png
+
+
+Conclusiones:
+- Utilizamos "morgan", este nos permite ver que IP, qué método y tiempo de respuesta empleo en una consulta.
+- Se realizó una vista de perfil y otro de editar usuario, estas son básicas al momento de crear una página web.
+- Es necesario siempre comprobar las modificaciones realizadas en la consola de mongodb ya que estamos trabajando con una API real.
